@@ -15,4 +15,9 @@ public class Multiplication {
 	{
 		System.out.println("New method");
 	}
+	
+	public void method2()
+	{
+		System.out.println("Method 2  ");
+	}
 }
