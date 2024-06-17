@@ -5,9 +5,8 @@ public class hello {
 	public void hello() {
 		System.out.println("hello..........");
 	}
-	
-	public void  method()
-	{
-		
+
+	public void method() {
+
 	}
 }
