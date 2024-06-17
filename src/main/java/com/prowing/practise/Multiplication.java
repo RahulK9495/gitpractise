@@ -11,4 +11,8 @@ public class Multiplication {
 	{
 		System.out.println("Multiplication added..");
 	}
+	public void newmethod()
+	{
+		System.out.println("New method");
+	}
 }
