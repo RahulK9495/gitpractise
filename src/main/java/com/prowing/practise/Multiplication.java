@@ -6,4 +6,9 @@ public class Multiplication {
 	{
 		System.out.println();
 	}
+	
+	public void multiply()
+	{
+		System.out.println("Multiplication added..");
+	}
 }
